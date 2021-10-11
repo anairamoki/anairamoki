@@ -7,8 +7,8 @@
 - 👩🏻‍🎓 Estudante de Sistema de Informações; 
 - 📍 Based in Dublin - Ireland; 
 - 📍 Residente em Dublin - Irlanda;
-- 🗣️ Fluente in English and Portuguese; 
-- 🗣️ Fluente em Inglês e Português
+- 🗣️ Fluente in English and Portuguese 🇧🇷; 
+- 🗣️ Fluente em Inglês e Português.
 
 <div align="center">
   <a href="https://github.com/anairamoki">
