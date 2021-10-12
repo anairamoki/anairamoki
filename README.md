@@ -1,14 +1,11 @@
 ### Hi there, I' Ariane Moki 👋 
-### Olá! Eu sou Ariane Moki 👋
+
 
 - 🌱 I’m currently learning JS, Node.js, MongoDB, EJS and Express; 
-- 🌱 Estudando JS, Node.js, MongoDB, EJS and Express;
 - 👩🏻‍🎓 I’m Business Information Systems Student; 
-- 👩🏻‍🎓 Estudante de Sistema de Informações; 
 - 📍 Based in Dublin - Ireland; 
-- 📍 Residente em Dublin - Irlanda;
 - 🗣️ Fluente in English and Portuguese 🇧🇷; 
-- 🗣️ Fluente em Inglês e Português.
+
 
 <div align="center">
   <a href="https://github.com/anairamoki">
