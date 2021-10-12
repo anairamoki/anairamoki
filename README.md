@@ -18,7 +18,7 @@
   <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ari-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ari-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="right" alt="Ari-pic" height="150" style="border-radius:50px;" src="https://stephensontam.files.wordpress.com/2018/05/programming-cat.gif?w=620">
+  <img align="right" alt="Ari-pic" height="150" style="border-radius:50px;" src="https://gif-free.com/uploads/posts/2017-03/1490378346_totoro-works-at-computer.gif">
 </div>
 
  ##
