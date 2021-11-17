@@ -1,10 +1,11 @@
 ### Hi there, I' Ariane Moki 👋 
 
 
-- 🌱 I’m currently learning JS, Node.js, MongoDB, EJS and Express; 
-- 👩🏻‍🎓 I’m Business Information Systems Student; 
-- 📍 Based in Dublin - Ireland; 
-- 🗣️ Fluente in English and Native: Portuguese 🇧🇷
+- 🌱  I’m currently learning JS, Node.js, MongoDB, EJS and Express; 
+- 👩🏻‍🎓  I’m Business Information Systems Student; 
+- 👩🏻‍💻  Currently seeking for internship;
+- 📍  Based in Dublin - Ireland; 
+- 🗣️  Fluente in English and Native: Portuguese 🇧🇷
 
 
 <div align="center">
