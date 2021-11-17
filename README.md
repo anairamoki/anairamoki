@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS, Node.js, MongoDB, EJS and Express; 
 - 👩🏻‍🎓 I’m Business Information Systems Student; 
 - 📍 Based in Dublin - Ireland; 
-- 🗣️ Fluente in English and Portuguese 🇧🇷
+- 🗣️ Fluente in English and Native: Portuguese 🇧🇷
 
 
 <div align="center">
