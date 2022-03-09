@@ -1,7 +1,7 @@
 ### Hi there, I' Ariane Moki 👋 
 
 
-- 🌱  I’m currently learning JS, Node.js, MongoDB, EJS and Express; 
+- 🌱  I’m currently learning HTML, CSS & JS; 
 - 👩🏻‍🎓  I’m Business Information Systems Student; 
 - 👩🏻‍💻  Currently seeking for internship;
 - 📍  Based in Dublin - Ireland; 
@@ -18,10 +18,6 @@
   <img align="center" alt="Ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ari-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ari-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Ari-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ari-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="right" alt="Ari-pic" height="150" style="border-radius:50px;" src="https://gif-free.com/uploads/posts/2017-03/1490378346_totoro-works-at-computer.gif">
 </div>
 
  ##
